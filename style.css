@@ -1,0 +1,42 @@
+body {
+  background-color: #a3caf4;
+  color: rgb(23, 21, 21);
+  font-family: Arial, sans-serif;
+  padding: 40px;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid white;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.resume-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: white;
+  color: #007BFF;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.contact {
+  margin-top: 40px;
+  font-size: 0.95em;
+}
